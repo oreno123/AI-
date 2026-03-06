@@ -7,9 +7,7 @@ python-multipart==0.0.6
 numpy==1.26.4
 Pillow==10.4.0
 
-# AI相关（兼容Python 3.10的CPU版）
-torch==2.1.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
-torchvision==0.16.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+# AI相关（仅保留非PyTorch依赖）
 transformers==4.44.2
 onnxruntime==1.16.3
 
