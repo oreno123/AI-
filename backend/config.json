@@ -4,10 +4,10 @@
     "theme": "light",
     "export_format": "png",
     "window": {
-        "width": 314,
-        "height": 50,
-        "x": -32000,
-        "y": -32000,
+        "width": 1037,
+        "height": 800,
+        "x": 265,
+        "y": 25,
         "fullscreen": false,
         "on_top": true
     },
